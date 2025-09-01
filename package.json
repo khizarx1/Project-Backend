@@ -1,0 +1,16 @@
+{
+  "name": "project-backend",
+  "version": "1.0.0",
+  "description": "complete backend of a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "yt"
+  ],
+  "author": "Muhammad Khizar",
+  "license": "ISC"
+}
